@@ -11,3 +11,8 @@ function rollDice(){
 // These are variables to help us track information.
 let points = 0;
 let canRollAgain = true;
+
+// We need a loop
+// We need to roll the dice
+// We need a decision
+// We need to show what's happening
